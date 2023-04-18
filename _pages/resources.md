@@ -8,36 +8,32 @@ classes: wide
 ---
 
 
-
-<!-- Throughout this document we'll have reference to some of the prompts that this information could apply to. -->
-<!-- Not sure about this -->
-
-# Getting Started:
-
 ## What is Decentralized Identity:
-Decentralized Identity Explained - https://www.youtube.com/watch?v=Ew-_F-OtDFI 
-Good summary doc: https://www.okta.com/blog/2021/01/what-is-decentralized-identity/ & matching video https://www.youtube.com/watch?v=gWfAIYXcyH4
+- Decentralized Identity Explained [video](https://www.youtube.com/watch?v=Ew-_F-OtDFI)
+- What is Decentralized Identity [doc](https://www.okta.com/blog/2021/01/what-is-decentralized-identity/) & matching [video](https://www.youtube.com/watch?v=gWfAIYXcyH4)
 
 
 ## What are the core technologies of Decentralized Identity:
 
 Asymmetric Encryption:
- - https://www.youtube.com/watch?v=AQDCe585Lnc 
- - Writing Secrets - https://www.youtube.com/watch?v=Kqm0LZeu_-4 
+ - Asymmetric Encryption - Simply explained [video](https://www.youtube.com/watch?v=AQDCe585Lnc)
+ - Writing Secrets - [video](https://www.youtube.com/watch?v=Kqm0LZeu_-4)
 
 Decentralized Identity Documents(DIDs): 
- - What are Decentralize Identifiers(DIDs) - https://www.youtube.com/watch?v=gWgAgpfLEIQ
- - The Power of DIDs - https://www.youtube.com/watch?v=yb9ATkwBFJA
+ - What are Decentralize Identifiers(DIDs) [video](https://www.youtube.com/watch?v=gWgAgpfLEIQ)
+ - The Power of DIDs [video](https://www.youtube.com/watch?v=yb9ATkwBFJA)
 
 Verfiable Credentials:
- - Verifiable Credentials: The Ultimate Guide 2023 - https://www.dock.io/post/verifiable-credentials
- - Fundamentals of Decentralized Identity: Free Certification Course - https://blog.dock.io/decentralized-identity-certification-course/
+ - Verifiable Credentials: The Ultimate Guide 2023 [doc](https://www.dock.io/post/verifiable-credentials)
+ - Fundamentals of Decentralized Identity: Free Certification Course [doc](https://blog.dock.io/decentralized-identity-certification-course/)
 
 
 
 ## 3 Ecosystems
 
 By no means are these the only Ecosystems built on and expanding the technologies above. But these are a good place to start
+
+### WIP
 
 <!-- There are multiple different implementations for acheiving Decentralized Identity. Each are quite involved on their own.
 
