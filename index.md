@@ -35,7 +35,7 @@ This event is designed to be inclusive to individuals from all backgrounds no ma
 ## And our partners
 
 <div class="logos">
-  <img src="/assets/images/logos/dif.png" alt="Decentralized Identity Foundation" width="200"/>
+  <img src="/assets/images/logos/dif_white.png" alt="Decentralized Identity Foundation" width="200"/>
   <img src="/assets/images/logos/wwcodebd_dark.png" alt="Women Who Code" width="200"/>
 </div>
 
