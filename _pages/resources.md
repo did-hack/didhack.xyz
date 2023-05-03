@@ -29,11 +29,15 @@ Verfiable Credentials:
 
 
 
-## 3 Ecosystems
+## Ecosystems
 
-By no means are these the only Ecosystems built on and expanding the technologies above. But these are a good place to start
+By no means are these the only ecosystems built on and expanding the technologies above. But these are a good place to start and there will be plenty of help from mentors of these ecosystems throughout the hackathon.
 
-### WIP
+### Corporate Sponsors
+
+**Dock** utilizes blockchain technology to transform the management, sharing, and verification of digital credentials for individuals and organizations. By providing a secure, transparent, and tamper-proof solution with decentralized identifiers (DIDs) and verifiable credentials, Dock ensures data privacy and reduces fraud potential. The platform benefits organizations by issuing easily verifiable, globally recognized digital credentials, streamlining recruitment and boosting trust in qualifications. With tools and APIs for developers, Dock enables seamless integration into existing systems or new application development, fostering a more secure, trusted, and efficient digital landscape.
+
+**Aviary Tech** aims to build a more equitable internet by combining emerging technologies and standards to eliminate the need for trust in intermediaries. The platform offers customizable software for organizations to securely issue credentials and share information, utilizing Verifiable Credentials to prevent data tampering. Aviary Tech ensures end-to-end security, seamless cross-border collaboration, and privacy by default. For individuals, it provides self-sovereign digital identifiers, giving users control over their online identity and data sharing. Encrypted messages remain strictly peer-to-peer, ensuring communication privacy and security.
 
 <!-- There are multiple different implementations for acheiving Decentralized Identity. Each are quite involved on their own.
 
