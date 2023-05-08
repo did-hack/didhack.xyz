@@ -10,6 +10,10 @@ Our opening event is June 5th. You’ll have the opportunity to work on projects
 
 Beginner to Decentralized Identity? Don’t worry! We’ll start the event with an introduction on concepts such as DIDs, Verifiable Credentials, and what it means to own and control your own digital identity.
 
+<div style="text-align: center;">
+  <a href="https://www.eventbrite.com/e/didhack-decentralized-identity-hackathon-tickets-626600859037" class="btn btn--primary btn--large">Sign Up</a>
+</div>
+
 ## 🎉 What this hackathon is about
 
 `did:hack` is an open event for people to learn, collaborate, and think creatively about how decentralized identity technology can be leveraged to improve digital interactions in the future.
