@@ -1,15 +1,42 @@
 ---
-layout: splash
-title: Information
+layout: single
+title: 
 permalink: /information/
 classes: wide
 sidebar:
-    nav: "information"
+    nav: "info"
 ---
 
-<br/>
+# Must Know:
 
-# Guidelines
+## Hackathon Rules:
+- **Theme/Focus**: All things SSI related. See ___ for ideas if you're struggling to come up with something.
+- **Teams**: Teams can be created at any time and can range from **1-5 people**. If your team has more than 5 people we cannot guarantee everyone will receive a reward.
+- **Original Work**: All work submitted must be original, created during the hackathon. Participants should not reuse previously developed projects or substantial portions of code. However, the use of publicly available libraries, frameworks, and APIs is generally allowed.
+- **Be Respectful**: You know what it means. If the organizers decide you are not following this simple rule, then we hold the right to remove/block you from the Hackathon.
+
+## Submissions and Presentations:
+
+All teams are encouraged to share what they worked on during the hackathon. No project is too unfinished
+
+### Submissions:
+- To be eligible for "winning" you must submit your project by _____ through _____.
+
+
+### Presentations:
+- If you want to present your project then you must declare by _____ through ____. Depending on the number of submissions we will decide the maximum time per presentation. As a general rule of thumb shoot for 3 minutes.
+
+
+
+
+
+
+
+
+# Project Ideas:
+
+
+<!-- # Guidelines
 
 Work together to create innovative solutions for decentralized identity technology. Each track has example prompts that could be used for building a solution. You are only expected to select one of the prompts below. All of the tracks will be judged equally. Collaborating in teams is highly encouraged!
 
@@ -66,4 +93,4 @@ for example: teams should prepare a 2-3 minute presentation to be shared during 
 
 **Usefulness** - Is the solution practical and useful? Does the solution consider real-world adoption?
 
-**Creativity** - How innovative is the solution?
+**Creativity** - How innovative is the solution? -->

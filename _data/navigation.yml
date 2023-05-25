@@ -6,15 +6,9 @@ main:
   #   url: /schedule/
   - title: "Resources"
     url: /resources/
-resources:
-  - title: Getting Started
+info:
+  - title: FAQ
     children:
-      - title: "Quick-Start Guide"
-        url: /resources/quick-start-guide/
-      - title: "Structure"
-        url: /resources/structure/
-      - title: "Installation"
-        url: /resources/installation/
-      - title: "Upgrading"
-        url: /resources/upgrading/
+      - title: "FAQ"
+        url: /information
 # ^^ the resources key allows for sidebar navigation. This will be useful for the resources page
