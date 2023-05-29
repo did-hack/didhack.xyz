@@ -18,7 +18,7 @@ sidebar:
 All teams are encouraged to share what they worked on during the hackathon. No project is too unfinished.
 
 ### Submissions:
-- To be eligible to win you must submit your project by _____ through _____.
+- To be eligible to win you must submit your project by ***Midnight (PST) June 7, 2023*** through _____.
 - Winning submissions will be clear and concise.
 - While not required, any links to source code will help with reviewing submissions.
 
@@ -28,7 +28,7 @@ All teams are encouraged to share what they worked on during the hackathon. No p
 - The organizers will contact the winners to get shipment details.
 
 ### Presentations:
-- If you want to present your project then you must declare by _____ through ____. Depending on the number of submissions we will decide the maximum time per presentation. As a general rule of thumb shoot for 3 minutes.
+- If you want to present your project then you must declare by ***Midnight (PST) June 7, 2023*** through ____. Depending on the number of submissions we will decide the maximum time per presentation. As a general rule of thumb shoot for 3 minutes.
 - Presentations will be occur at: ______.
 - Your presentation can either be done live, or be a prerecorded video.
 
