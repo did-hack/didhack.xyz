@@ -7,8 +7,20 @@ main:
   - title: "Resources"
     url: /resources/
 info:
-  - title: FAQ
+  - title: Important Info
     children:
+      - title: "Hackathon Rules"
+        url: information/#hackathon-rules
+      - title: "Submissions and Presentations"
+        url: information/#submissions-and-presentations
+          # - title: "Awards"
+          # url: information/#awards
+          # - title: "Presentations"
+          # url: information/#presentations
+          # - title: "Submissions"
+          # url: information/#submissions
+      - title: "Project Ideas"
+        url: information/#project-ideas
       - title: "FAQ"
-        url: /information
+        url: information/#faq
 # ^^ the resources key allows for sidebar navigation. This will be useful for the resources page
