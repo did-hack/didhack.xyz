@@ -20,6 +20,14 @@ Beginner to Decentralized Identity? Don’t worry! We’ll start the event with 
 
 This event is designed to be inclusive to individuals from all backgrounds no matter their technical skills, professional experience or familiarity with decentralized identity.
 
+## Where will this hackathon take place?
+
+`did:hack` will take place entirely online through Discord. We will have a main stage area for the opening and closing ceremony along with breakout voice channels for more intimate sessions.
+
+<div style="text-align: center;">
+  <a href="https://discord.gg/dAwHf3D868" class="btn btn--primary btn--large">Join Discord</a>
+</div>
+
 ## Goals for this event:
 
 - Bring the community together
