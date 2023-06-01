@@ -7,7 +7,6 @@ sidebar:
     nav: "info"
 ---
 
-# Hackathon Rules:
 - **Theme/Focus**: All things SSI related. See [Project Ideas](#project-ideas) for ideas if you're struggling to come up with something.
 - **Teams**: Teams can be created at any time and can range from **1-5 people**. If your team has more than 5 people we cannot guarantee everyone will receive an award.
 - **Original Work**: All work submitted must be original and created during the hackathon. Participants should avoid reusing previously developed projects or significant portions of code. However, participants are encouraged to utilize publicly available libraries, frameworks, and APIs, including those provided by our esteemed sponsors.
