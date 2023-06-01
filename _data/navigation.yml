@@ -1,26 +1,31 @@
 # main links
 main:
-  # - title: "Information"
-  #   url: /information/
+  - title: "Information"
+    url: /information/
   # - title: "Schedule"
   #   url: /schedule/
   - title: "Resources"
     url: /resources/
 info:
-  - title: Important Info
+  - title: Hackathon Rules
+    url: information/#hackathon-rules
+      
+  - title: Submissions and Presentations
     children:
-      - title: "Hackathon Rules"
-        url: information/#hackathon-rules
-      - title: "Submissions and Presentations"
-        url: information/#submissions-and-presentations
-          # - title: "Awards"
-          # url: information/#awards
-          # - title: "Presentations"
-          # url: information/#presentations
-          # - title: "Submissions"
-          # url: information/#submissions
-      - title: "Project Ideas"
-        url: information/#project-ideas
-      - title: "FAQ"
-        url: information/#faq
+      - title: "Submissions"
+        url: information/#submissions
+      - title: "Presentations"
+        url: information/#presentations
+      - title: "Awards"
+        url: information/#awards-
+
+  - title: "Project Ideas"
+    children:
+      - title: Start with Use Cases
+        url: information/#start-with-use-cases
+      - title: Start with Features
+        url: information/#start-with-features
+  - title: FAQ
+    url: information/#faq
+
 # ^^ the resources key allows for sidebar navigation. This will be useful for the resources page
