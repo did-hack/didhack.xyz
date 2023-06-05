@@ -49,6 +49,16 @@ Below are just a few prompts to get you thinking about the space and the problem
 - What is the best way to render a Verifiable Credential in a product considering both technical requirements and user experience?
 - How can biometrics be incorporated into the issuance and/or verification process for Verifiable Credentials?
 
+## Judging Criteria
+
+Fundamentals - How well does the solution consider and showcase concepts core to decentralized identity?
+
+Functionality - Is this a solution that can be realistically implemented? To what extent has the team attempted to demonstrate functionality?
+
+Usefulness - Is the solution practical and useful? Does the solution consider real-world adoption?
+
+Creativity - How innovative is the solution?
+
 
 # FAQ
 ### What are the discord channel links?
